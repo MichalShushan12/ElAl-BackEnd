@@ -1,0 +1,17 @@
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ElAlAIR.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ElAlAIR.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ElAlAIR.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ElAlAIR.BusinessLogic.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ElAlAIR.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\bin\Debug\net8.0\ElAlAIR.BusinessLogic.deps.json
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\bin\Debug\net8.0\ElAlAIR.BusinessLogic.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\bin\Debug\net8.0\ElAlAIR.BusinessLogic.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\bin\Debug\net8.0\ElAlAIR.DataAccess.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\bin\Debug\net8.0\ElAlAIR.DTO.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\bin\Debug\net8.0\ElAlAIR.DataAccess.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\bin\Debug\net8.0\ElAlAIR.DTO.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ElAlAIR..225DBD80.Up2Date
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ElAlAIR.BusinessLogic.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\refint\ElAlAIR.BusinessLogic.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ElAlAIR.BusinessLogic.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.BusinessLogic\obj\Debug\net8.0\ref\ElAlAIR.BusinessLogic.dll

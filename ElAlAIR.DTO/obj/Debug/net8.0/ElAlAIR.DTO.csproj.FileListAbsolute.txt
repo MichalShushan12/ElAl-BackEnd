@@ -1,0 +1,11 @@
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\bin\Debug\net8.0\ElAlAIR.DTO.deps.json
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\bin\Debug\net8.0\ElAlAIR.DTO.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\bin\Debug\net8.0\ElAlAIR.DTO.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\obj\Debug\net8.0\ElAlAIR.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\obj\Debug\net8.0\ElAlAIR.DTO.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\obj\Debug\net8.0\ElAlAIR.DTO.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\obj\Debug\net8.0\ElAlAIR.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\obj\Debug\net8.0\ElAlAIR.DTO.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\obj\Debug\net8.0\refint\ElAlAIR.DTO.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\obj\Debug\net8.0\ElAlAIR.DTO.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DTO\obj\Debug\net8.0\ref\ElAlAIR.DTO.dll

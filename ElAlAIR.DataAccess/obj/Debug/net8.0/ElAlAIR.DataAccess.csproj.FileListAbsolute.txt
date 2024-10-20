@@ -1,0 +1,17 @@
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\bin\Debug\net8.0\ElAlAIR.DataAccess.deps.json
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\bin\Debug\net8.0\ElAlAIR.DataAccess.runtimeconfig.json
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\bin\Debug\net8.0\ElAlAIR.DataAccess.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\bin\Debug\net8.0\ElAlAIR.DataAccess.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\bin\Debug\net8.0\ElAlAIR.DTO.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\bin\Debug\net8.0\ElAlAIR.DTO.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR.DataAccess.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR..D0FC3DCE.Up2Date
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR.DataAccess.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\refint\ElAlAIR.DataAccess.dll
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR.DataAccess.pdb
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ElAlAIR.DataAccess.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\שולחן העבודה\API REQUESTS\ElAlAIR\ElAlAIR.DataAccess\obj\Debug\net8.0\ref\ElAlAIR.DataAccess.dll

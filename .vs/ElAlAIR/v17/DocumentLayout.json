@@ -1,0 +1,1025 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dto\\models\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|solutionrelative:elalair.dto\\models\\tokendto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dto\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|solutionrelative:elalair.dto\\models\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\interfaces\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\interfaces\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\profiles\\clientuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\profiles\\clientuserprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dto\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|solutionrelative:elalair.dto\\models\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dto\\models\\continentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|solutionrelative:elalair.dto\\models\\continentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\controllers\\continentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\controllers\\continentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\entities\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\models\\loginregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\models\\loginregisterrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\models\\createcontinentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\models\\createcontinentrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\models\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\models\\createdestinationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\profiles\\clientdestinationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\profiles\\clientdestinationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\entities\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\entities\\continent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\entities\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\entities\\destination.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\entities\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\entities\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dto\\models\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|solutionrelative:elalair.dto\\models\\destinationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\ElalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ElAlAIR.DataAccess\\Entities\\ElalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dto\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B68D7F5-0D23-4633-BC41-1F1439EE4436}|ElAlAIR.DTO\\ElAlAIR.DTO.csproj|solutionrelative:elalair.dto\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\repositories\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\repositories\\destinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\repositories\\continentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\repositories\\continentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\models\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\models\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\controllers\\destinationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\interfaces\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\interfaces\\idestinationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\services\\destinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\interfaces\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\interfaces\\idestinationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\services\\continentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\services\\continentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\21678c91-474e-422f-8f54-2c0600889875_full stack-react-ul - auth - 922071.zip.875\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\6227fc725205b285e9d5dc2d57144aa3d36fe8c199b57bfaa27a50d7ed53f4f2\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\profiles\\clientcontinentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\profiles\\clientcontinentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.dataaccess\\interfaces\\icontinentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D138A48-8337-4E21-9A0F-18C4410C257B}|ElAlAIR.DataAccess\\ElAlAIR.DataAccess.csproj|solutionrelative:elalair.dataaccess\\interfaces\\icontinentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\interfaces\\icontinentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\interfaces\\icontinentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\elalair.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\elalair.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\a846fb03-a105-4509-8433-c599f81125b2_full stack-react-ul - auth - 922071.zip.5b2\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\f901d55217d41430dd66d0838852bf855c0535cc49a475c2d66bce02f02404b9\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\ac6e341c-f57a-40a3-bea1-7516f5437f33_full stack-react-ul - auth - 922071.zip.f33\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\b5a7536d-bd8b-443a-a0a7-868f9a991193_full stack-react-ul - auth - 922071.zip.193\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\b7c1c0b1-860c-44cb-9d84-a23464382218_full stack-react-ul - auth - 922071.zip.218\\Auth\\App\\App.API\\Controllers\\AuthController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\profiles\\orderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ELAL\\ELAL\\ELAL.BusinessLogic\\Services\\DestinationsService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\AppData\\Local\\Temp\\26f554ec-e574-417f-a016-c85c29748790_full stack-react-ul - auth - 922071.zip.790\\Auth\\App\\App.API\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.api\\profiles\\clientorderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2B118CF-0491-4E1D-A9BE-5F9B531F5B56}|ElAlAIR.API\\ElAlAIR.API.csproj|solutionrelative:elalair.api\\profiles\\clientorderprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\profiles\\continentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\profiles\\continentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|c:\\users\\hp\\onedrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\api requests\\elalair\\elalair.businesslogic\\profiles\\destinationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42987E59-79E6-4BFD-9FB8-7DE5D4A7DF60}|ElAlAIR.BusinessLogic\\ElAlAIR.BusinessLogic.csproj|solutionrelative:elalair.businesslogic\\profiles\\destinationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAswJAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:14:38.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\AuthService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Services\\AuthService.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAUwIwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:05:36.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Program.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Program.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Program.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAGkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:13:20.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IAuthService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Interfaces\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IAuthService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Interfaces\\IAuthService.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADwvxAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:59:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\OrderService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Services\\OrderService.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAAAIwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:05:35.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAIwFcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:13:43.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TokenDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\TokenDTO.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DTO\\Models\\TokenDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\TokenDTO.cs",
+              "RelativeToolTip": "ElAlAIR.DTO\\Models\\TokenDTO.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:28:59.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAA9wGgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:28:16.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DTO\\Models\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\OrderDTO.cs",
+              "RelativeToolTip": "ElAlAIR.DTO\\Models\\OrderDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:28:32.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IOrderService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Interfaces\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IOrderService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Interfaces\\IOrderService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:00:04.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Interfaces\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Interfaces\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Interfaces\\IOrderRepository.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Interfaces\\IOrderRepository.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:14:37.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA7wBEAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:53:41.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\UserService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Services\\UserService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAGEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:05:44.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ClientUserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Profiles\\ClientUserProfile.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Profiles\\ClientUserProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Profiles\\ClientUserProfile.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Profiles\\ClientUserProfile.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAADwvw8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:19:01.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Profiles\\UserProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:03:19.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserLoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\UserLoginDTO.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DTO\\Models\\UserLoginDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\UserLoginDTO.cs",
+              "RelativeToolTip": "ElAlAIR.DTO\\Models\\UserLoginDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T20:23:11.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContinentDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\ContinentDTO.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DTO\\Models\\ContinentDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\ContinentDTO.cs",
+              "RelativeToolTip": "ElAlAIR.DTO\\Models\\ContinentDTO.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAwwAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:27:48.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ContinentsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\ContinentsController.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Controllers\\ContinentsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\ContinentsController.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Controllers\\ContinentsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAABoAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:28:24.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Token.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Entities\\Token.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Token.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Entities\\Token.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:27:46.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAAAHMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:40:11.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreateDestinationRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Models\\CreateDestinationRequest.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Models\\CreateDestinationRequest.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Models\\CreateDestinationRequest.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Models\\CreateDestinationRequest.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA8wBIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:09:03.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateContinentRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Models\\CreateContinentRequest.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Models\\CreateContinentRequest.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Models\\CreateContinentRequest.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Models\\CreateContinentRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:08:24.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ClientDestinationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Profiles\\ClientDestinationProfile.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Profiles\\ClientDestinationProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Profiles\\ClientDestinationProfile.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Profiles\\ClientDestinationProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:04:40.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginRegisterRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Models\\LoginRegisterRequest.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Models\\LoginRegisterRequest.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Models\\LoginRegisterRequest.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Models\\LoginRegisterRequest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T17:58:43.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Continent.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Continent.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Entities\\Continent.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Continent.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Entities\\Continent.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:31:42.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Destination.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Destination.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Entities\\Destination.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Destination.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Entities\\Destination.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:31:22.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Order.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:31:07.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Rule.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Rule.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Entities\\Rule.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\Rule.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Entities\\Rule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:51:34.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\User.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Entities\\User.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:29:53.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DestinationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\DestinationDTO.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DTO\\Models\\DestinationDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\DestinationDTO.cs",
+              "RelativeToolTip": "ElAlAIR.DTO\\Models\\DestinationDTO.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:28:12.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ElalDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\ElalDbContext.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Entities\\ElalDbContext.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Entities\\ElalDbContext.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Entities\\ElalDbContext.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T16:26:01.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBAAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:03:55.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAIwCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T15:41:35.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DTO\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DTO\\Models\\UserDTO.cs",
+              "RelativeToolTip": "ElAlAIR.DTO\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAgwBAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:29:13.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "DestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Repositories\\DestinationRepository.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Repositories\\DestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Repositories\\DestinationRepository.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Repositories\\DestinationRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAADEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T20:13:11.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ContinentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Repositories\\ContinentRepository.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Repositories\\ContinentRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Repositories\\ContinentRepository.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Repositories\\ContinentRepository.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAmwCQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:14:28.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Models\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Models\\CreateUserRequest.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Models\\CreateUserRequest.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Models\\CreateUserRequest.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:07:35.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DestinationsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\DestinationsController.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Controllers\\DestinationsController.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Controllers\\DestinationsController.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Controllers\\DestinationsController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAADQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T19:28:31.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\DestinationService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Services\\DestinationService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\DestinationService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Services\\DestinationService.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:05:25.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IDestinationService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IDestinationService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Interfaces\\IDestinationService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IDestinationService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Interfaces\\IDestinationService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:59:50.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IDestinationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Interfaces\\IDestinationRepository.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Interfaces\\IDestinationRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Interfaces\\IDestinationRepository.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Interfaces\\IDestinationRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA0AAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:32:44.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContinentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\ContinentService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Services\\ContinentService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Services\\ContinentService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Services\\ContinentService.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAACkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:05:11.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\appsettings.json",
+              "RelativeToolTip": "ElAlAIR.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-18T20:06:24.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\21678c91-474e-422f-8f54-2c0600889875_full stack-react-ul - auth - 922071.zip.875\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\21678c91-474e-422f-8f54-2c0600889875_full stack-react-ul - auth - 922071.zip.875\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\21678c91-474e-422f-8f54-2c0600889875_full stack-react-ul - auth - 922071.zip.875\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\21678c91-474e-422f-8f54-2c0600889875_full stack-react-ul - auth - 922071.zip.875\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs [Read Only]",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAFcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:09:43.53Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\6227fc725205b285e9d5dc2d57144aa3d36fe8c199b57bfaa27a50d7ed53f4f2\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6227fc725205b285e9d5dc2d57144aa3d36fe8c199b57bfaa27a50d7ed53f4f2\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\6227fc725205b285e9d5dc2d57144aa3d36fe8c199b57bfaa27a50d7ed53f4f2\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\6227fc725205b285e9d5dc2d57144aa3d36fe8c199b57bfaa27a50d7ed53f4f2\\AuthService.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAB8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:17:36.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "ClientContinentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Profiles\\ClientContinentProfile.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Profiles\\ClientContinentProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Profiles\\ClientContinentProfile.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Profiles\\ClientContinentProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:05:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\appsettings.Development.json",
+              "RelativeToolTip": "ElAlAIR.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T19:52:47.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "ElAlAIR.API\\Properties\\serviceDependencies.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-14T16:39:13.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "IContinentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Interfaces\\IContinentRepository.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.DataAccess\\Interfaces\\IContinentRepository.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.DataAccess\\Interfaces\\IContinentRepository.cs",
+              "RelativeToolTip": "ElAlAIR.DataAccess\\Interfaces\\IContinentRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:32:25.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IContinentService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IContinentService.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Interfaces\\IContinentService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Interfaces\\IContinentService.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Interfaces\\IContinentService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAowA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:59:33.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "ElAlAIR.API.http",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\ElAlAIR.API.http",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\ElAlAIR.API.http",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\ElAlAIR.API.http",
+              "RelativeToolTip": "ElAlAIR.API\\ElAlAIR.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-08-12T23:17:57.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\a846fb03-a105-4509-8433-c599f81125b2_full stack-react-ul - auth - 922071.zip.5b2\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\a846fb03-a105-4509-8433-c599f81125b2_full stack-react-ul - auth - 922071.zip.5b2\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\a846fb03-a105-4509-8433-c599f81125b2_full stack-react-ul - auth - 922071.zip.5b2\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\a846fb03-a105-4509-8433-c599f81125b2_full stack-react-ul - auth - 922071.zip.5b2\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs [Read Only]",
+              "ViewState": "AQIAAEoAAAAAAAAAAADwv1gAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T16:51:19.398Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\f901d55217d41430dd66d0838852bf855c0535cc49a475c2d66bce02f02404b9\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f901d55217d41430dd66d0838852bf855c0535cc49a475c2d66bce02f02404b9\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\.vsdbgsrc\\f901d55217d41430dd66d0838852bf855c0535cc49a475c2d66bce02f02404b9\\AuthService.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\f901d55217d41430dd66d0838852bf855c0535cc49a475c2d66bce02f02404b9\\AuthService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:50:02.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\ac6e341c-f57a-40a3-bea1-7516f5437f33_full stack-react-ul - auth - 922071.zip.f33\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\ac6e341c-f57a-40a3-bea1-7516f5437f33_full stack-react-ul - auth - 922071.zip.f33\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\ac6e341c-f57a-40a3-bea1-7516f5437f33_full stack-react-ul - auth - 922071.zip.f33\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\ac6e341c-f57a-40a3-bea1-7516f5437f33_full stack-react-ul - auth - 922071.zip.f33\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs [Read Only]",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:08:18.723Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\b5a7536d-bd8b-443a-a0a7-868f9a991193_full stack-react-ul - auth - 922071.zip.193\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\b5a7536d-bd8b-443a-a0a7-868f9a991193_full stack-react-ul - auth - 922071.zip.193\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\b5a7536d-bd8b-443a-a0a7-868f9a991193_full stack-react-ul - auth - 922071.zip.193\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\b5a7536d-bd8b-443a-a0a7-868f9a991193_full stack-react-ul - auth - 922071.zip.193\\Auth\\App\\App.BusinessLogic\\Services\\AuthService.cs [Read Only]",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvyoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T15:02:26.177Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\b7c1c0b1-860c-44cb-9d84-a23464382218_full stack-react-ul - auth - 922071.zip.218\\Auth\\App\\App.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\b7c1c0b1-860c-44cb-9d84-a23464382218_full stack-react-ul - auth - 922071.zip.218\\Auth\\App\\App.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\b7c1c0b1-860c-44cb-9d84-a23464382218_full stack-react-ul - auth - 922071.zip.218\\Auth\\App\\App.API\\Controllers\\AuthController.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\b7c1c0b1-860c-44cb-9d84-a23464382218_full stack-react-ul - auth - 922071.zip.218\\Auth\\App\\App.API\\Controllers\\AuthController.cs [Read Only]",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvx0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T14:43:07.757Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "OrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Profiles\\OrderProfile.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Profiles\\OrderProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Profiles\\OrderProfile.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Profiles\\OrderProfile.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:33:32.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "DestinationsService.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ELAL\\ELAL\\ELAL.BusinessLogic\\Services\\DestinationsService.cs",
+              "RelativeDocumentMoniker": "..\\ELAL\\ELAL\\ELAL.BusinessLogic\\Services\\DestinationsService.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ELAL\\ELAL\\ELAL.BusinessLogic\\Services\\DestinationsService.cs",
+              "RelativeToolTip": "..\\ELAL\\ELAL\\ELAL.BusinessLogic\\Services\\DestinationsService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAADwvxgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T23:29:33.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ElAlAIR.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABsAAAAAAAAAAADwvyIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-12T21:50:03.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "ClientOrderProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Profiles\\ClientOrderProfile.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.API\\Profiles\\ClientOrderProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.API\\Profiles\\ClientOrderProfile.cs",
+              "RelativeToolTip": "ElAlAIR.API\\Profiles\\ClientOrderProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T19:05:47.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\AppData\\Local\\Temp\\26f554ec-e574-417f-a016-c85c29748790_full stack-react-ul - auth - 922071.zip.790\\Auth\\App\\App.API\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\26f554ec-e574-417f-a016-c85c29748790_full stack-react-ul - auth - 922071.zip.790\\Auth\\App\\App.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\AppData\\Local\\Temp\\26f554ec-e574-417f-a016-c85c29748790_full stack-react-ul - auth - 922071.zip.790\\Auth\\App\\App.API\\Program.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\26f554ec-e574-417f-a016-c85c29748790_full stack-react-ul - auth - 922071.zip.790\\Auth\\App\\App.API\\Program.cs [Read Only]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T21:27:09.411Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ContinentProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Profiles\\ContinentProfile.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Profiles\\ContinentProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Profiles\\ContinentProfile.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Profiles\\ContinentProfile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIBJwA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:31:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "DestinationProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Profiles\\DestinationProfile.cs",
+              "RelativeDocumentMoniker": "ElAlAIR.BusinessLogic\\Profiles\\DestinationProfile.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\\u05E9\u05D5\u05DC\u05D7\u05DF \u05D4\u05E2\u05D1\u05D5\u05D3\u05D4\\API REQUESTS\\ElAlAIR\\ElAlAIR.BusinessLogic\\Profiles\\DestinationProfile.cs",
+              "RelativeToolTip": "ElAlAIR.BusinessLogic\\Profiles\\DestinationProfile.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIBJwBAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:32:20.999Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
